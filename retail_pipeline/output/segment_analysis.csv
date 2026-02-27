@@ -1,0 +1,4 @@
+segment,unique_customers,total_revenue,total_profit,avg_profit_margin,revenue_per_customer
+Consumer,409,1161401.34,134119.21,11.2,2839.61
+Corporate,236,706146.37,91979.13,12.12,2992.15
+Home Office,148,429653.15,60298.68,14.29,2903.06

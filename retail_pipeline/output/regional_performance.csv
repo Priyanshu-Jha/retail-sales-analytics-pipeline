@@ -1,0 +1,5 @@
+region,unique_customers,total_orders,total_revenue,total_profit,avg_profit_margin,avg_delivery_days
+West,686,1611,725457.82,108418.45,21.95,3.9
+East,674,1401,678781.24,91522.78,16.72,3.9
+Central,629,1175,501239.89,39706.36,-10.41,4.1
+South,512,822,391721.91,46749.43,16.35,4.0

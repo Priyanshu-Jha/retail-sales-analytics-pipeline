@@ -1,0 +1,11 @@
+state,region,unique_customers,total_revenue,total_profit,avg_profit_margin
+California,West,577,457687.63,76381.39,27.83
+New York,East,415,310876.27,74038.55,29.84
+Texas,Central,370,170188.05,-25729.36,-34.2
+Washington,West,224,138641.27,33402.65,27.64
+Pennsylvania,East,257,116511.91,-15559.96,-8.6
+Florida,South,181,89473.71,-3399.3,-1.8
+Illinois,Central,237,80166.1,-12607.89,-39.17
+Ohio,East,202,78258.14,-16971.38,-7.38
+Michigan,Central,106,76269.61,24463.19,33.34
+Virginia,South,107,70636.72,18597.95,33.2
